@@ -8,8 +8,7 @@
 
 💡 &nbsp;I am passionate about exploring new technologies and developing innovative software solutions.\
 🎓 &nbsp;Currently, I am finishing my studies in Microcomputer Systems, which has given me a good command of computers, servers and networks.\
-👦🏽 &nbsp;Although I currently live in Spain, I am from Argentina and I am 21 years old.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+👦🏽 &nbsp;Although I currently live in Spain, i am from Argentina and i am 21 years old. In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at tbus2004@gmail.com\
 <br>
