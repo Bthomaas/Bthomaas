@@ -28,6 +28,12 @@
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop"> </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator"> </a>
 
+### 🧠 Soft Skills
+<p>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" alt="Word" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" alt="Access" />
+</p>
 
 ## 🤝 Connect with me
 <p align="center">
